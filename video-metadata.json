@@ -1,0 +1,13 @@
+{
+  "timePerInterval": {
+    "minutes": 15
+  },
+  "totalTime": {
+    "hours": 8
+  },
+  "intervalGracePeriod": {
+    "seconds": "5"
+  },
+  "actionText": "Drink Water Please!",
+  "timerText": "Drink water in"
+}
